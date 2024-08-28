@@ -8,3 +8,23 @@ h3 {
   margin: 0 auto;
   width: 200px;
 }
+
+.card {
+  border: 1px solid black;
+  margin: 8px;
+  object-fit: cover;
+}
+
+img {
+  float: left;
+  display: block;
+  object-fit: cover;
+}
+
+info {float: right;}
+
+ul {margin: 0;}
+
+div {
+  padding: 5px;
+}
